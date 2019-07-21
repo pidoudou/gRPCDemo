@@ -18,3 +18,6 @@ ps：
 	2、 无论是client、service还是.dll类库都需要在NuGet中添加Google.Protobuf和Grpc（其中有命名空间Grpc.Core）引用；
 	
 	
+具体使用详见：https://www.cnblogs.com/linezero/p/grpc.html
+	
+	
