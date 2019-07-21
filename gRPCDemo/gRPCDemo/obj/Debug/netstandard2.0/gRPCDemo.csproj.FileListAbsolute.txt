@@ -1,0 +1,9 @@
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\bin\Debug\netstandard2.0\gRPCDemo.deps.json
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\bin\Debug\netstandard2.0\gRPCDemo.dll
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\bin\Debug\netstandard2.0\gRPCDemo.pdb
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\obj\Debug\netstandard2.0\gRPCDemo.csproj.CoreCompileInputs.cache
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\obj\Debug\netstandard2.0\gRPCDemo.AssemblyInfoInputs.cache
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\obj\Debug\netstandard2.0\gRPCDemo.AssemblyInfo.cs
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\obj\Debug\netstandard2.0\gRPCDemo.dll
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\obj\Debug\netstandard2.0\gRPCDemo.pdb
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCDemo\obj\Debug\netstandard2.0\gRPCDemo.csprojAssemblyReference.cache

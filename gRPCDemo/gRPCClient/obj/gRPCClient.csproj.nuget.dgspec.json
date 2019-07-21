@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCClient\\gRPCClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCClient\\gRPCClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCClient\\gRPCClient.csproj",
+        "projectName": "gRPCClient",
+        "projectPath": "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCClient\\gRPCClient.csproj",
+        "packagesPath": "C:\\Users\\fanwenqi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fanwenqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCDemo\\gRPCDemo.csproj": {
+                "projectPath": "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCDemo\\gRPCDemo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Grpc": {
+              "target": "Package",
+              "version": "[1.22.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCDemo\\gRPCDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCDemo\\gRPCDemo.csproj",
+        "projectName": "gRPCDemo",
+        "projectPath": "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCDemo\\gRPCDemo.csproj",
+        "packagesPath": "C:\\Users\\fanwenqi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fanwenqi\\Desktop\\C#solution\\20190720\\gRPCDemo\\gRPCDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fanwenqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Grpc": {
+              "target": "Package",
+              "version": "[1.22.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.22.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

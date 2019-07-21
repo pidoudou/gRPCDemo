@@ -1,0 +1,14 @@
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\bin\Debug\netcoreapp2.2\gRPCClient.deps.json
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\bin\Debug\netcoreapp2.2\gRPCClient.runtimeconfig.json
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\bin\Debug\netcoreapp2.2\gRPCClient.runtimeconfig.dev.json
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\bin\Debug\netcoreapp2.2\gRPCClient.dll
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\obj\Debug\netcoreapp2.2\gRPCClient.csprojAssemblyReference.cache
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\obj\Debug\netcoreapp2.2\gRPCClient.csproj.CoreCompileInputs.cache
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\obj\Debug\netcoreapp2.2\gRPCClient.AssemblyInfoInputs.cache
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\obj\Debug\netcoreapp2.2\gRPCClient.AssemblyInfo.cs
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\bin\Debug\netcoreapp2.2\gRPCClient.pdb
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\bin\Debug\netcoreapp2.2\gRPCDemo.dll
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\bin\Debug\netcoreapp2.2\gRPCDemo.pdb
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\obj\Debug\netcoreapp2.2\gRPCClient.csproj.CopyComplete
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\obj\Debug\netcoreapp2.2\gRPCClient.dll
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCClient\obj\Debug\netcoreapp2.2\gRPCClient.pdb

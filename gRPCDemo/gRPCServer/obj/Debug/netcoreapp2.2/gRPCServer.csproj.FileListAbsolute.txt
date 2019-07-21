@@ -1,0 +1,14 @@
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\bin\Debug\netcoreapp2.2\gRPCServer.deps.json
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\bin\Debug\netcoreapp2.2\gRPCServer.runtimeconfig.json
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\bin\Debug\netcoreapp2.2\gRPCServer.runtimeconfig.dev.json
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\bin\Debug\netcoreapp2.2\gRPCServer.dll
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\obj\Debug\netcoreapp2.2\gRPCServer.csprojAssemblyReference.cache
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\obj\Debug\netcoreapp2.2\gRPCServer.csproj.CoreCompileInputs.cache
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\obj\Debug\netcoreapp2.2\gRPCServer.AssemblyInfoInputs.cache
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\obj\Debug\netcoreapp2.2\gRPCServer.AssemblyInfo.cs
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\bin\Debug\netcoreapp2.2\gRPCServer.pdb
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\bin\Debug\netcoreapp2.2\gRPCDemo.dll
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\bin\Debug\netcoreapp2.2\gRPCDemo.pdb
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\obj\Debug\netcoreapp2.2\gRPCServer.csproj.CopyComplete
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\obj\Debug\netcoreapp2.2\gRPCServer.dll
+C:\Users\fanwenqi\Desktop\C#solution\20190720\gRPCDemo\gRPCServer\obj\Debug\netcoreapp2.2\gRPCServer.pdb
